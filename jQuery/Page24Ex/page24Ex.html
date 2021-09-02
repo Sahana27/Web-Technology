@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Furry Friends Campaign</title>
+		<link rel=""stylesheet" type="text/css" href="page24Ex.css">
+	</head>
+	<body>
+		<div id="clickMe">Show Me the Furry Friend of the Day</div>
+		<div id="picframe">
+		<img src="furry_friend.jpg">
+		</div>
+		<script src="scripts/jquery-1.6.4.js"></script>
+		<script>
+			$(document).ready(function(){
+			$(clickMe).click(function(){
+				alert("clicked");
+				$("img").fadeIn(1000);
+				$(picframe).slideToggle("slow");
+			});
+			});
+		</script>
+	</body>
+</html>

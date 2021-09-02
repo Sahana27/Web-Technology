@@ -1,0 +1,14 @@
+CGI with C:
+http://www.cs.tut.fi/~jkorpela/forms/cgic.html
+
+http://riccardotacconi.blogspot.in/2012/02/cgi-script-with-apache-and-c.html
+
+http://www.cgi101.com/book/connect/winxp.html
+
+http://www.purplepixie.org/cgi/howto.php
+
+http://oreilly.com/openbook/cgi/ch01_06.html
+
+http://www.boutell.com/cgic/
+
+http://www.drdobbs.com/cgi-programming-in-c/184403248   :::: ==============> Example for USING C IN CGI
